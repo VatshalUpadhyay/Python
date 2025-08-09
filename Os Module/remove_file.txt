@@ -1,0 +1,1 @@
+example file to remove the file wwith help of os module i do this in 01_main.py you see there           
